@@ -1,4 +1,6 @@
 # Uploading temperature sensor data in Thing Speak cloud
+### NAME : SHAIK AZEEZ AHAMAD
+### REGISTER NUMBER : 212223110046
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -73,10 +75,14 @@ Automatically act on your data and communicate using third-party services like T
 # PROGRAM:
 
 # CIRCUIT DIAGRAM:
-
+![WhatsApp Image 2026-02-11 at 10 04 52](https://github.com/user-attachments/assets/d29f9a9b-0ce8-42bb-946e-97f1a3494ede)
 # OUTPUT:
+### SERIAL MONITOR:
+<img width="1919" height="1199" alt="Screenshot 2026-02-11 091707" src="https://github.com/user-attachments/assets/c50d61e6-fc97-4e8d-b3a1-72707b7376ab" />
+
+### THINGSPEAK:
+<img width="1919" height="1199" alt="Screenshot 2026-02-11 091624" src="https://github.com/user-attachments/assets/36085204-0743-4415-bd4d-631112dde762" />
 
 # RESULT:
-
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
 
